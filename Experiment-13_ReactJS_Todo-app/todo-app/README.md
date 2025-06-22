@@ -57,3 +57,5 @@ http://localhost:3000
 
 LICENSE
 This project is licensed under the MIT License.
+Developed by sreehas
+
