@@ -36,4 +36,4 @@ The Bootstrap framework is included via CDN in the <head> section of paybycredit
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.Developed by sreehas
